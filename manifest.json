@@ -4,7 +4,10 @@
     "version": "0.1",
     "description": "This extension removes the difficulty tags from the LeetCode questions.",
     "content_scripts": [{
-        "matches": ["https://leetcode.com/problems/*"],
+        "matches": [
+            "https://leetcode.com/problems/*",
+            "https://www.geeksforgeeks.org/problems/*"
+        ],
         "css": ["styles/style.css"]
     }]
 }

@@ -1,3 +1,7 @@
 div[class*="text-difficulty"] {
     display: none !important;
 }
+
+div[class*="problems_header_description"] {
+    display: none !important;
+}
