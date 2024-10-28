@@ -5,3 +5,8 @@ div[class*="text-difficulty"] {
 div[class*="problems_header_description"] {
     display: none !important;
 }
+
+p[class*="problemOfTheDay_problemDescription"] {
+    /* visibility: hidden; */
+    display: none !important;
+}

@@ -6,7 +6,8 @@
     "content_scripts": [{
         "matches": [
             "https://leetcode.com/problems/*",
-            "https://www.geeksforgeeks.org/problems/*"
+            "https://www.geeksforgeeks.org/problems/*",
+            "https://www.geeksforgeeks.org/problem-of-the-day/*"
         ],
         "css": ["styles/style.css"]
     }]
