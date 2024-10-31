@@ -1,11 +1,12 @@
 {
     "manifest_version": 3,
     "name": "LeetCode Difficulty Tag Remover",
-    "version": "0.1",
+    "version": "0.2",
     "description": "This extension removes the difficulty tags from the LeetCode questions.",
     "content_scripts": [{
         "matches": [
             "https://leetcode.com/problems/*",
+            "https://leetcode.com/problemset/",
             "https://www.geeksforgeeks.org/problems/*",
             "https://www.geeksforgeeks.org/problem-of-the-day/*"
         ],

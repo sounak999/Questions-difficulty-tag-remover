@@ -1,6 +1,14 @@
+/* Leetcode */
+
 div[class*="text-difficulty"] {
     display: none !important;
 }
+
+div[role="row"] > div[role="cell"]:nth-child(5) {
+    visibility: hidden !important;
+}
+
+/* Geeks for Geeks */
 
 div[class*="problems_header_description"] {
     display: none !important;
