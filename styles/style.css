@@ -4,6 +4,7 @@ div[class*="text-difficulty"] {
     display: none !important;
 }
 
+div[role="row"] > div[role="cell"]:nth-child(4),
 div[role="row"] > div[role="cell"]:nth-child(5) {
     visibility: hidden !important;
 }
