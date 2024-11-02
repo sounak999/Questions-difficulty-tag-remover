@@ -8,7 +8,7 @@
             "https://leetcode.com/problems/*",
             "https://leetcode.com/problemset/",
             "https://www.geeksforgeeks.org/problems/*",
-            "https://www.geeksforgeeks.org/problem-of-the-day/*"
+            "https://www.geeksforgeeks.org/problem-of-the-day*"
         ],
         "css": ["styles/style.css"]
     }]
