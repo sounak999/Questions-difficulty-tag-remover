@@ -7,6 +7,7 @@
         "matches": [
             "https://leetcode.com/problems/*",
             "https://leetcode.com/problemset/",
+            "https://leetcode.com/problem-list/*",
             "https://www.geeksforgeeks.org/problems/*",
             "https://www.geeksforgeeks.org/problem-of-the-day*"
         ],

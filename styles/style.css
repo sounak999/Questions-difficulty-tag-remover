@@ -13,6 +13,10 @@ div.ml-4.flex-none {
     visibility: hidden !important;
 }
 
+p[class*="text-sd"] {
+    visibility: hidden;
+}
+
 /* Geeks for Geeks */
 
 div[class*="problems_header_description"] {
