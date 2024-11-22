@@ -14,7 +14,9 @@ div.ml-4.flex-none {
 }
 
 p[class*="text-sd"],
-p[class*="text-lc-"] {
+p[class*="text-lc-green"],
+p[class*="text-lc-red"],
+p[class*="text-lc-yellow"] {
     visibility: hidden;
 }
 
