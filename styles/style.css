@@ -13,7 +13,8 @@ div.ml-4.flex-none {
     visibility: hidden !important;
 }
 
-p[class*="text-sd"] {
+p[class*="text-sd"],
+p[class*="text-lc-"] {
     visibility: hidden;
 }
 
