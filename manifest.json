@@ -10,7 +10,8 @@
             "https://leetcode.com/problem-list/*",
             "https://leetcode.com/studyplan/*",
             "https://www.geeksforgeeks.org/problems/*",
-            "https://www.geeksforgeeks.org/problem-of-the-day*"
+            "https://www.geeksforgeeks.org/problem-of-the-day*",
+            "https://www.geeksforgeeks.org/batch*"
         ],
         "css": ["styles/style.css"]
     }]
