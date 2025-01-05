@@ -11,7 +11,8 @@
             "https://leetcode.com/studyplan/*",
             "https://www.geeksforgeeks.org/problems/*",
             "https://www.geeksforgeeks.org/problem-of-the-day*",
-            "https://www.geeksforgeeks.org/batch*"
+            "https://www.geeksforgeeks.org/batch*",
+            "https://learnyard.com/practice/dsa/"
         ],
         "css": ["styles/style.css"]
     }]
