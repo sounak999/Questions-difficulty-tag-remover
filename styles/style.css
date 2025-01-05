@@ -32,6 +32,6 @@ p[class*="problemOfTheDay_problemDescription"] {
 }
 
 /* Learnyard */
-td [class*="p-difficulty"] {
-    visibility: hidden;
+tbody td.p-difficulty {
+    visibility: hidden !important;
 }
