@@ -32,6 +32,10 @@ p[class*="problemOfTheDay_problemDescription"] {
 }
 
 /* Learnyard */
-tbody td.p-difficulty {
-    visibility: hidden !important;
+th:nth-child(2) {
+    display: none;
+}
+
+td[class*="p-difficulty"] {
+    display: none !important;
 }
